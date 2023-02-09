@@ -1,1 +1,1 @@
-![image](readme.png)
+![image](whoami.png)
