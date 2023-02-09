@@ -1,3 +1,1 @@
-![image](unix.png)
-
-### Engineering is art...
+![image](whoami.png)
