@@ -4,11 +4,10 @@
 #converted to shell by #nixers @ irc.unix.chat
 #splash screen for @tinydev
 
+#	user@system ~ $ ./whoami.sh
+
 cat << 'eof'
 
-
-
-	user@system ~ $ ./whoami.sh
 
 
 	                     [38;5;255m,_ ,_==▄▂[0m
