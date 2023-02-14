@@ -1,11 +1,14 @@
 ![image](u.png)
 ```
-Name:   TINYDEV
+NAME
+        tinydev - engineering is art
 
-Motto:  Engineering is art.
+SYNOPSIS
+        Engineering is art.
 
-Description: Socially outgoing computerphile with
-5+ years of experence in low level computer structures,
-unix systems/administration, bash/python scripting,
-C development, and technical-writing.
+DESCRIPTION
+        Socially outgoing computerphile with
+        5+ years of experence in low level computer structures,
+        unix systems/administration, bash/python scripting,
+        C development, and technical-writing.
 ```
