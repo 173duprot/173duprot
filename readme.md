@@ -1,4 +1,4 @@
-![image](unix.png)
+![image](u.png)
 ```
     
     Name:   TINYDEV
