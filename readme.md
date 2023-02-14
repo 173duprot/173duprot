@@ -1,7 +1,9 @@
 ![image](u.png)
 ```
+TINYDEV(8)
+
 NAME
-        tinydev - a progreammer, sysadmin, and student
+        tinydev
 
 SYNOPSIS
         Engineering is art.
