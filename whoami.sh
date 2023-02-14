@@ -30,14 +30,15 @@ cat << 'eof'
 	 [38;5;20m/    [38;5;240m%[38;5;20m%%;,[0m         [38;5;255m<[38;5;20m;[38;5;240m\-=-/ /[0m
 
 	[38;5;255m
-	Name:	TINYDEV
-
-	Motto:	Engineering is art.
-
-	Socially outgoing computerphile with 5+ years of experence in low level computer
-	structures, unix systems/administration, bash/python scripting, C development,
-	and technical-writing.
 	
+    
+    Name:   TINYDEV
 
+    Motto:  Engineering is art.
+
+    Socially outgoing computerphile with 5+ years of experence
+    in low level computer structures, unix systems/administration,
+    bash/python scripting, C development, and technical-writing.
+    
 
 eof
