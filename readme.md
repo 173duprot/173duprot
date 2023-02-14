@@ -1,4 +1,4 @@
-![image](whoami.png)
+![image](unix.png)
 ```
     
     Name:   TINYDEV
