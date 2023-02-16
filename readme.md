@@ -1,9 +1,9 @@
 ![image](u.png)
 ```
-TINYDEV(8)
+TINYDEV.ART(8)
 
 NAME
-        tinydev
+        tinydev.art
 
 SYNOPSIS
         Engineering is art.
