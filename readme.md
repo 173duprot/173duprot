@@ -1,6 +1,6 @@
 ![image](u.png)
 ```
-173DUPROT(3)
+173duprot(3)
 
 NAME
         1 7 3 dup rot .s
