@@ -12,8 +12,10 @@ SYNOPSIS
         Fuck Capitalisim.
 
 DESCRIPTION
-        Design Brutalist and Engineer,
-        lover of human-scale technology,
-        permacomputing, anti-capitalist,
-        high-durabilty, bulletproof design.
+        Design Brutalist and Engineer, lover of human-scale
+        technology and permacomputing. FOSS anti-capitalist,
+        high-durabilty, bulletproof, reusable, planned
+        permanence design.
+
+        My software is like a cast iron pan.
 ```
