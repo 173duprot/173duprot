@@ -17,5 +17,6 @@ DESCRIPTION
         high-durabilty, bulletproof, reusable, planned
         permanence design.
 
-        My software is like a cast iron pan.
+        My software is like a cast iron pan. Care for it and
+        it will last you a lifetime.
 ```
