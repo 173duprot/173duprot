@@ -4,7 +4,7 @@ TINYDEV.ART(3)
 
 NAME
         1 7 3 dup rot .s
-        ok 1337
+        ok 1 3 3 7
         
 SYNOPSIS
         Engineering is art.
