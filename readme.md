@@ -1,6 +1,6 @@
 ![image](u.png)
 ```
-173duprot(3)
+TINYDEV.ART(3)
 
 NAME
         1 7 3 dup rot .s
