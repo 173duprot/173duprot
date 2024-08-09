@@ -1,16 +1,19 @@
 ![image](u.png)
 ```
-TINYDEV.ART(8)
+TINYDEV.ART(3)
 
 NAME
-        tinydev.art
-
+        1 7 3 dup rot .s
+        ok 1337
+        
 SYNOPSIS
         Engineering is art.
+        Technology is bloat.
+        Fuck Capitalisim.
 
 DESCRIPTION
-        Socially outgoing computerphile with 5+ years of
-        experence in low level computer structures, unix
-        systems/administration, bash/python scripting,
-        C development, and technical-writing.
+        Design Brutalist and Engineer,
+        lover of human-scale technology,
+        permacomputing, anti-capitalist,
+        high-durabilty, bulletproof design.
 ```
